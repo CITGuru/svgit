@@ -2,7 +2,7 @@
   "name": "svgit",
   "version": "1.0.0",
   "description": "Customizeable SVG to React Component",
-  "author": "CITGuru",
+  "author": "Oyetoke Toby",
   "license": "MIT",
   "repository": "CITGuru/svgit",
   "main": "dist/index.js",

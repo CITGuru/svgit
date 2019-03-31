@@ -41,6 +41,18 @@ A React class or a function that returns a component instance to be used as the 
 **preloader** {node}  
 A component to be shown while the SVG is loading.
 
+**selector** {object}  
+Select a single svg element to be customized. E.g - `{index:4, attrs: { fill:"yellow" }}`.
+
+*index* - index of the element starting from 0 
+*attrs* - any applicable svg attributes and properties
+
+**selectors** {array}  
+Select multiple svg elements to be customized. E.g - `[{index:4, attrs: { fill:"yellow" }}]`.
+
+*index* - index of the element starting from 0 
+*attrs* - any applicable svg attributes and properties
+
 **className** {string}  
 A class to add to the default wrapper.
 
@@ -82,4 +94,4 @@ Yes you can contribute by sending a PR. Much code.
 
 ## License
 
-MIT © [CITGuru](https://github.com/CITGuru)
+MIT © [Oyetoke Toby](https://github.com/CITGuru)
