@@ -22,6 +22,7 @@ export default {
       sourcemap: true
     }
   ],
+  external: [ 'react-inlinesvg' ],
   plugins: [
     external(),
     postcss({
