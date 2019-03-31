@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/svgit.svg)](https://www.npmjs.com/package/svgit) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-This is a simple react library built on [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) for manipulating svgs. You can pretty much manipulate `path`,`g`, and other svg components by using their index (more to come) and attrs. 
+This is a simple react library built on [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) for manipulating svgs. You can pretty much manipulate `path`,`g`, and other svg components by using their index (more to come) and attrs. This is still at its crude stage.
 
 ## Install
 
@@ -29,7 +29,7 @@ class Example extends Component {
 ```
 
 
-Props
+## Props
 ----
 
 **src** {string}  
@@ -75,6 +75,10 @@ This will receive a single argument:
 ```
 
 You should head over to [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg/) for more info on react-inlinesvg
+
+## Contribution
+
+Yes you can contribute by sending a PR. Much code.
 
 ## License
 
