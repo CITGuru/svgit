@@ -1,6 +1,6 @@
 {
   "name": "svgit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customizeable SVG to React Component",
   "author": "Oyetoke Toby",
   "license": "MIT",
